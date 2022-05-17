@@ -1,0 +1,21 @@
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.setHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.setHeader a {
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #000;
+}
+
+svg {
+  width: 200px;
+}
