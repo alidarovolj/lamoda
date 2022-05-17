@@ -2,6 +2,30 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.carousel {
+  width: 70%;
+}
+
+.mainBlock {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rightSide {
+  width: 29%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.rightSide p {
+  margin-bottom: 0;
+}
+
+.rightSide img{
+  width: 100%;
+}
+
 .container {
   width: 1280px;
   margin: 0 auto;
